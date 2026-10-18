@@ -1,6 +1,6 @@
-# Contributing to Binary Atlas
+# Contributing
 
-Thank you for your interest in contributing to Binary Atlas.
+Thank you for your interest in contributing.
 
 This project is a personal learning and research project focused on static analysis of PE binaries. Contributions are welcome to improve detection capabilities, performance, and usability.
 
